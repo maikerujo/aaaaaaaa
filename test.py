@@ -6,3 +6,4 @@ A = [
 
 for List in A:
     print(List)
+    print("mange")
